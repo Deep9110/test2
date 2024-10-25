@@ -1,0 +1,6 @@
+Today's work (9.10.24)
+
+Funcational testing doc template for odisha police
+Exploratory testing for login page (ORMAS)
+33 Broken link found from OP
+Install dependecies testing

@@ -1,0 +1,10 @@
+odisha police: admin, Op@12345
+ormas: admin, ormas
+eormas: admin@gmail.com
+	  Eormas@12345
+Internet: Employee , Bbsr@123456
+task: https://mindtrack.info/du-admin
+id: MTPLEMP497
+pass: MTPLEMP432
+Mindtrack: Mptl@0639
+
